@@ -1,5 +1,38 @@
 * TODO list voor UI taak
 
+** Eisen en behoeften
+*** Online bestellen (account/gast)
+    - zoeken
+    - filteren
+    - bancontact
+    - krediet
+    - paypal
+    - overschrijven
+    - levering
+    - afhalen
+**** passend assortiment
+**** geen verzendkosten voor €100
+**** bevestingspagina
+*** Online abbonement, account vereist
+    1. seizoenpas: 8 maand (sep-apr)
+    2. semesterpas: 2 maand (sep-okt, nov-dec, jan-feb, maa-apr)
+    3. 10 beurtenkaart
+    4. gepaste kosten:
+       - > 12: -40%
+       - > 18: -20%
+*** Indien account:
+    - aankoopgeschiedenis (shop, abbon) raadplegen
+    - reeds gedane aankoop herhalen
+*** lid met Gelig abbo
+    - 5 reservaties open hebben
+**** reservatie:
+     - 1 uur
+     - enkel tijdens openings uren
+     - max 1 maand op voorhand
+     - 30 leden / uur reservatie
+     - altijd beschikbaar te zien
+     - max 24u op voorhand annuleren
+
 ** Opdracht
 *** Bespreek 2 paginas:
     - *Homepage*
