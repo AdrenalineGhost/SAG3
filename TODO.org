@@ -2,12 +2,23 @@
 
 ** Opdracht
 *** Bespreek 2 paginas:
+    - *Homepage*
+    - *shopping*
+
     1. *per* site 5 UI richtlijnen die je wilt aanpakken
     2. *per* UI-richtlijn verbeterpunten + gefundeerde uitleg
 
 *** Ontwerp nodige pagina's met de eisen (houdt rekening met UI-richtlijnen)
-**** Bestelproces:
+**** Bestelproces en reservatieproces:
      - Wireframe:
        - Responsive
        - Adaptive
      - Mock-up: 1 van de 2 designs
+**** Andere pagina's:
+     => Wireframes
+     Responsive *of* adaptive
+**** Betalingsproces:
+     Bevat:
+      - alle schermen voor je wordt doorgestuurd naar externe betaalsite
+      - het scherm bij terug komst
+     
