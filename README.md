@@ -27,7 +27,7 @@ Software Analyse Groep 3
         - snelheid
         - gepaste kleuren
         - eenvoudig
-    - [ ] homepage
+    - [x] homepage
         - [ ] gefundeerde uitleg per pagina over richtlijnen
     - [ ] shopping
         - [ ] gefundeerde uitleg per pagina over richtlijnen
