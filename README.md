@@ -24,7 +24,7 @@ Software Analyse Groep 3
     - [ ] 5 ui-richtlijnen
         - beperk de mentale belasting
         - duidelijk en bondig schrijven
-        - snelheid
+        - geef de gebruiker controle
         - gepaste kleuren
         - eenvoudig
     - [ ] homepage
@@ -38,9 +38,10 @@ Software Analyse Groep 3
             - [ ] responsive
             - [ ] adaptive
         - [ ] mock-up
-            - [ ] normaal
+            - [x] normaal
             - [ ] responsive of adaptive 
     - [ ] andere paginas
+        - [ ] home
         - [ ] clubs
         - [ ] ads
         - [ ] login
