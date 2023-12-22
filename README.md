@@ -16,7 +16,7 @@ Software Analyse Groep 3
     - [x] 10-beurtenkaart
     - [x] gepaste prijzen ( 0-12 40%, 12-18 20% )
 - [x] aankoopgeschiedenis ( + gebeurde aankoop opnieuw )
-- [ ] lid kan tot max 5 openstaande reservaties hebben
+- [x] lid kan tot max 5 openstaande reservaties hebben
 - [x] lid kan altijd reservaties zien
 - [ ] lid kan tot 24h voor reservaties anuleren
 ## TODO
