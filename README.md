@@ -1,4 +1,46 @@
 # SAG3
 Software Analyse Groep 3
-## Poggers :)
-
+## Eisen
+- [ ] indienen tegen **vrijdag 22 december 2023 voor 23h59**
+- [ ] online bestellen
+    - [ ] account
+    - [ ] gast
+    - [ ] filteren in het assortiment
+    - [ ] indien levering aan huis -> ( bankcontact, kredietkaart, paypal of overschrijving )
+    - [ ] passende assortiment
+    - [ ] geen bestellingskosten na 100 euro
+    - [ ] bevestiging
+- [ ] online abonnement
+    - [ ] Seizoenpas
+    - [ ] Semesterpas
+    - [ ] 10-beurtenkaart
+    - [ ] gepaste prijzen ( 0-12 40%, 12-18 20% )
+- [ ] aankoopgeschiedenis ( + gebeurde aankoop opnieuw )
+- [ ] lid kan tot max 5 openstaande reservaties hebben
+- [ ] lid kan altijd reservaties zien
+- [ ] lid kan tot 24h voor reservaties anuleren
+## TODO
+- [ ] bespreek
+    - [ ] homepage
+        - [ ] 5 ui-richtlijnen
+        - [ ] gefundeerde uitleg per pagina
+    - [ ] shopping
+        - [ ] 5 ui-richtlijnen
+        - [ ] gefundeerde uitleg per pagina
+- [ ] maak
+    - [ ] bestelpagina
+        - [ ] wireframes
+            - [x] normaal
+            - [ ] responsive
+            - [ ] adaptive
+        - [ ] mock-up
+            - [ ] normaal
+            - [ ] responsive of adaptive 
+    - [ ] andere paginas
+        - [ ] clubs
+        - [ ] ads
+        - [ ] login
+        - [ ] account details
+        - [ ] wireframe
+            - [ ] normaal
+            - [ ] responsive of adaptive
