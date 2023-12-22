@@ -2,14 +2,14 @@
 Software Analyse Groep 3
 ## Eisen
 - [ ] indienen tegen **vrijdag 22 december 2023 voor 23h59**
-- [ ] online bestellen
-    - [ ] account
-    - [ ] gast
-    - [ ] filteren in het assortiment
-    - [ ] indien levering aan huis -> ( bankcontact, kredietkaart, paypal of overschrijving )
-    - [ ] passende assortiment
-    - [ ] geen bestellingskosten na 100 euro
-    - [ ] bevestiging
+- [x] online bestellen
+    - [x] account
+    - [x] gast
+    - [x] filteren in het assortiment
+    - [x] indien levering aan huis -> ( bankcontact, kredietkaart, paypal of overschrijving )
+    - [x] passende assortiment
+    - [x] geen bestellingskosten na 100 euro
+    - [x] bevestiging
 - [x] online abonnement
     - [x] Seizoenpas
     - [x] Semesterpas
@@ -18,34 +18,41 @@ Software Analyse Groep 3
 - [x] aankoopgeschiedenis ( + gebeurde aankoop opnieuw )
 - [x] lid kan tot max 5 openstaande reservaties hebben
 - [x] lid kan altijd reservaties zien
-- [ ] lid kan tot 24h voor reservaties anuleren
+- [x] lid kan tot 24h voor reservaties anuleren
 ## TODO
-- [ ] bespreek
-    - [ ] 5 ui-richtlijnen
+- [x] bespreek
+    - [x] 5 ui-richtlijnen
         - beperk de mentale belasting
         - duidelijk en bondig schrijven
         - geef de gebruiker controle
         - gepaste kleuren
         - eenvoudig
-    - [ ] homepage
-        - [ ] gefundeerde uitleg per pagina over richtlijnen
-    - [ ] shopping
-        - [ ] gefundeerde uitleg per pagina over richtlijnen
+    - [x] homepage
+        - [x] gefundeerde uitleg per pagina over richtlijnen
+    - [x] shopping
+        - [x] gefundeerde uitleg per pagina over richtlijnen
 - [ ] maak
-    - [ ] bestelpagina
-        - [ ] wireframes
+    - [x] bestelpagina
+        - [x] wireframes
             - [x] normaal
-            - [ ] responsive
-            - [ ] adaptive
-        - [ ] mock-up
+            - [x] responsive
+            - [x] adaptive
+        - [x] mock-up
             - [x] normaal
             - [ ] responsive of adaptive 
-    - [ ] andere paginas
-        - [ ] home
-        - [ ] clubs
-        - [ ] ads
-        - [ ] login
-        - [ ] account details
-        - [ ] wireframe
-            - [ ] normaal
-            - [ ] responsive of adaptive
+    - [x] andere paginas
+        - [x] home
+            - [x] normaal
+            - [x] responsive of adaptive
+        - [x] clubs
+            - [x] normaal
+            - [x] responsive of adaptive
+        - [x] ads
+            - [x] normaal
+            - [x] responsive of adaptive
+        - [x] login
+            - [x] normaal
+            - [x] responsive of adaptive
+        - [x] account details
+            - [x] normaal
+            - [x] responsive of adaptive
