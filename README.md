@@ -21,12 +21,16 @@ Software Analyse Groep 3
 - [ ] lid kan tot 24h voor reservaties anuleren
 ## TODO
 - [ ] bespreek
+    - [ ] 5 ui-richtlijnen
+        - beperk de mentale belasting
+        - duidelijk en bondig schrijven
+        - snelheid
+        - gepaste kleuren
+        - eenvoudig
     - [ ] homepage
-        - [ ] 5 ui-richtlijnen
-        - [ ] gefundeerde uitleg per pagina
+        - [ ] gefundeerde uitleg per pagina over richtlijnen
     - [ ] shopping
-        - [ ] 5 ui-richtlijnen
-        - [ ] gefundeerde uitleg per pagina
+        - [ ] gefundeerde uitleg per pagina over richtlijnen
 - [ ] maak
     - [ ] bestelpagina
         - [ ] wireframes
