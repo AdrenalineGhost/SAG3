@@ -10,11 +10,11 @@ Software Analyse Groep 3
     - [ ] passende assortiment
     - [ ] geen bestellingskosten na 100 euro
     - [ ] bevestiging
-- [ ] online abonnement
-    - [ ] Seizoenpas
-    - [ ] Semesterpas
-    - [ ] 10-beurtenkaart
-    - [ ] gepaste prijzen ( 0-12 40%, 12-18 20% )
+- [x] online abonnement
+    - [x] Seizoenpas
+    - [x] Semesterpas
+    - [x] 10-beurtenkaart
+    - [x] gepaste prijzen ( 0-12 40%, 12-18 20% )
 - [ ] aankoopgeschiedenis ( + gebeurde aankoop opnieuw )
 - [ ] lid kan tot max 5 openstaande reservaties hebben
 - [ ] lid kan altijd reservaties zien
